@@ -1,0 +1,29 @@
+=== 1. Stopword Removal (Inggris, NLTK) ===
+Input : Sip and rest: Enjoy your quiet Sunday morning..
+Output: Sip rest: Enjoy quiet Sunday morning..
+
+=== 2. Stopword Removal (Indonesia, Sastrawi) ===
+Input : Sesap dan istirahat: Nikmati pagi hari Minggumu yang tenang.
+Output: Sesap istirahat: Nikmati pagi hari Minggumu tenang.
+
+=== 3. Pipeline Lengkap + WordCloud ===
+File input        : data/sample_text_ai.txt (239 kata)
+Setelah pipeline  : 201 kata, 139 kata unik
+10 kata terbanyak :
+  bagai           5
+  ai              5
+  kembang         4
+  jadi            4
+  hari            4
+  model           4
+  data            4
+  makin           4
+  cerdas          3
+  buat            3
+WordCloud disimpan: outputs/wordcloud.png
+
+=== 4. N-Gram ===
+Teks: Sabtu pagi saya dan istri pergi ke alun-alun
+Unigram: ['Sabtu', 'pagi', 'saya', 'dan', 'istri', 'pergi', 'ke', 'alun-alun']
+Bigram: ['Sabtu pagi', 'pagi saya', 'saya dan', 'dan istri', 'istri pergi', 'pergi ke', 'ke alun-alun']
+Trigram: ['Sabtu pagi saya', 'pagi saya dan', 'saya dan istri', 'dan istri pergi', 'istri pergi ke', 'pergi ke alun-alun']

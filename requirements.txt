@@ -1,0 +1,5 @@
+nltk>=3.8
+Sastrawi>=1.0
+wordcloud>=1.9
+matplotlib>=3.7
+pytest>=7.0   # hanya untuk menjalankan tes

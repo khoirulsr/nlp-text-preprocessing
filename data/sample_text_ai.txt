@@ -1,0 +1,19 @@
+Perkembangan kecerdasan buatan atau artificial intelligence telah mengalami kemajuan yang sangat pesat 
+dalam beberapa tahun terakhir. Teknologi machine learning dan deep learning menjadi fondasi utama 
+yang mendorong berbagai inovasi, mulai dari pengenalan gambar, pemrosesan bahasa alami, 
+hingga sistem rekomendasi yang kita gunakan sehari-hari. Model bahasa besar seperti large language model 
+kini mampu memahami konteks percakapan dan menghasilkan teks yang menyerupai cara berpikir manusia.
+Dalam dunia industri, kecerdasan buatan dimanfaatkan untuk berbagai keperluan seperti otomatisasi proses bisnis,
+analisis data pelanggan, deteksi penipuan, dan prediksi tren pasar. Perusahaan teknologi besar berlomba-lomba 
+mengembangkan model AI yang lebih canggih, efisien, dan mampu memahami berbagai jenis data termasuk
+teks, gambar, suara, dan video secara bersamaan melalui pendekatan multimodal.
+Selain manfaatnya yang besar, perkembangan AI juga menimbulkan berbagai tantangan dan pertanyaan etis yang 
+perlu dipikirkan bersama. Isu seperti privasi data, bias algoritma, transparansi model, serta dampaknya terhadap 
+lapangan pekerjaan menjadi perhatian banyak pihak termasuk pemerintah, akademisi, dan masyarakat umum. 
+Oleh karena itu, pengembangan AI yang bertanggung jawab dan berkelanjutan menjadi semakin penting untuk 
+memastikan teknologi ini memberikan manfaat yang adil bagi semua orang.
+Di masa depan, kecerdasan buatan diperkirakan akan semakin terintegrasi dalam kehidupan sehari-hari, 
+mulai dari asisten virtual yang semakin pintar, kendaraan otonom, layanan kesehatan berbasis AI, 
+hingga sistem pendidikan yang dipersonalisasi sesuai kebutuhan setiap individu. Pemahaman yang baik 
+tentang cara kerja AI, termasuk konsep dasar seperti pembelajaran mesin, pemrosesan bahasa alami, 
+dan analisis data, menjadi keterampilan yang semakin dibutuhkan di berbagai bidang pekerjaan.
